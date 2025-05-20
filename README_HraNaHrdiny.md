@@ -31,6 +31,3 @@
 
 Václav Průcha
 
-## 📜 Licence
-
-Tento projekt je poskytován bez licence (defaultně chráněn autorským právem). Pokud chceš přidat konkrétní licenci (např. MIT, GPL), dej vědět.
